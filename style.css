@@ -77,7 +77,7 @@ h1 {
 }
 
 #content {
-  width: 60%;
+  width: 70%;
   font-size: 1.2rem;
   margin-left: 9rem;
 }
@@ -108,47 +108,49 @@ h1 {
   font-size: 0.85rem;
 }
 
-.lower_paragraph {
+.picture {
   position: relative;
+  margin-bottom:2rem;
+  margin-left:-7rem;
 }
 
 #universe {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 12rem;
-  left: 2rem;
+  top: 14rem;
+  left: 3rem;
 }
 
 #cosmos {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 12rem;
-  left: 15rem;
+  top: 14rem;
+  left: 18rem;
 }
 
 #telescope {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 12rem;
-  left: 28rem;
+  top: 14rem;
+  left: 34rem;
 }
 
 #coffee {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 12rem;
-  left: 41rem;
+  top: 14rem;
+  left: 52rem;
 }
 
 #time {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 29rem;
+  top: 34rem;
   left: 2rem;
 }
 
@@ -157,37 +159,39 @@ h1 {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 29rem;
-  left: 15rem;
+  top: 34rem;
+  left: 18rem;
 }
 
 #flactuation {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 29rem;
-  left: 28rem;
+  top: 34rem;
+  left: 34rem;
 }
 
 #expansion{
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 29rem;
-  left: 41rem;
+  top: 34rem;
+  left: 52rem;
 }
 
 hr {
     width:7rem;
     color:gray;
     background-color:gray;
-    margin-right:36.4rem;
+    position:absolute;
+    top:220rem;
+    left:35.5rem;
 
   }
 #by {
       font-size:0.75rem;
+      position: absolute;
+      top:222rem;
+      left:35.5rem;
   }
-  #briefing  {
-     width:50rem;
-     background-color:red;
-  }
+

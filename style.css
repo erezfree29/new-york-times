@@ -5,7 +5,7 @@ h1 {
 hr {
   width: 1rem;
   background-color: grey;
-  height: .1rem;
+  height: 0.1rem;
 }
 
 .nav {
@@ -13,21 +13,32 @@ hr {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: .05rem solid gray;
-  border-top: .05rem solid gray;
+  border-bottom: 0.05rem solid gray;
+  border-top: 0.05rem solid gray;
+}
+
+#menu {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+
+#search {
+  width: 2.3rem;
+  ;
+  height: 2.3rem;
 }
 
 #space {
-  color: #000;
+  color: black;
   font-weight: 900;
   text-decoration: underline;
-  padding-top: .5rem;
+  padding-top: 0.5rem;
 }
 
 #logo {
   width: 13rem;
   height: 5rem;
-  padding-top: .9rem;
+  padding-top: 0.9rem;
 }
 
 #left-nav {
@@ -40,6 +51,8 @@ hr {
   margin-right: 10rem;
 }
 
+.article {}
+
 .header {
   font-size: 2.5rem;
   padding-top: 4rem;
@@ -48,8 +61,10 @@ hr {
 
 .gun {
   margin-left: 18.83rem;
-  padding-top: .1rem;
+  padding-top: 0.1rem;
 }
+
+.lower {}
 
 #man {
   width: 110%;
@@ -58,13 +73,13 @@ hr {
 #credit {
   padding-left: 23rem;
   margin-top: -2.4rem;
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 #label {
   font-weight: 600;
   text-decoration: underline;
-  font-size: .75rem;
+  font-size: 0.75rem;
 }
 
 #content {
@@ -74,8 +89,8 @@ hr {
 }
 
 #date {
-  margin-top: .8rem;
-  margin-bottom: .8rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
 }
 
 #big {
@@ -89,7 +104,6 @@ hr {
 
 .lower_paragraph {
   margin-left: -4rem;
-  position: relative;
 }
 
 #inflation {
@@ -97,11 +111,15 @@ hr {
 }
 
 .discription {
-  font-size: .85rem;
+  font-size: 0.85rem;
+}
+
+.lower_paragraph {
+  position: relative;
 }
 
 #universe {
-  font-size: .75rem;
+  font-size: 0.75rem;
   width: 25%;
   position: absolute;
   top: 12rem;
@@ -109,14 +127,9 @@ hr {
 }
 
 #time {
-  font-size: .75rem;
+  font-size: 0.75rem;
   width: 25%;
   position: absolute;
   top: 12rem;
   left: 15rem;
-}
-
-#search {
-  width: 2.3rem;
-  height: 2.3rem;
 }

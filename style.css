@@ -2,12 +2,6 @@ h1 {
   color: blue;
 }
 
-hr {
-  width: 1rem;
-  background-color: grey;
-  height: 0.1rem;
-}
-
 .nav {
   height: 5.2rem;
   display: flex;
@@ -49,4 +43,87 @@ hr {
   display: flex;
   color: #567b95;
   margin-right: 10rem;
+}
+
+.article {}
+
+.header {
+  font-size: 2.5rem;
+  padding-top: 4rem;
+  font-weight: 900;
+}
+
+.gun {
+  margin-left: 18.83rem;
+  padding-top: 0.1rem;
+}
+
+.lower {}
+
+#man {
+  width: 110%;
+}
+
+#credit {
+  padding-left: 23rem;
+  margin-top: -2.4rem;
+  font-size: 0.8rem;
+}
+
+#label {
+  font-weight: 600;
+  text-decoration: underline;
+  font-size: 0.75rem;
+}
+
+#content {
+  width: 60%;
+  font-size: 1.2rem;
+  margin-left: 9rem;
+}
+
+#date {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+
+#big {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+#theory {
+  width: 120%;
+}
+
+.lower_paragraph {
+  margin-left: -4rem;
+}
+
+#inflation {
+  font-weight: 600;
+}
+
+.discription {
+  font-size: 0.85rem;
+}
+
+.lower_paragraph {
+  position: relative;
+}
+
+#universe {
+  font-size: 0.75rem;
+  width: 25%;
+  position: absolute;
+  top: 12rem;
+  left: 2rem;
+}
+
+#time {
+  font-size: 0.75rem;
+  width: 25%;
+  position: absolute;
+  top: 12rem;
+  left: 15rem;
 }

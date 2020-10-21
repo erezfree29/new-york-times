@@ -113,17 +113,81 @@ h1 {
 }
 
 #universe {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   width: 25%;
   position: absolute;
   top: 12rem;
   left: 2rem;
 }
 
-#time {
-  font-size: 0.75rem;
+#cosmos {
+  font-size: 0.65rem;
   width: 25%;
   position: absolute;
   top: 12rem;
   left: 15rem;
 }
+
+#telescope {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 12rem;
+  left: 28rem;
+}
+
+#coffee {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 12rem;
+  left: 41rem;
+}
+
+#time {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 29rem;
+  left: 2rem;
+}
+
+
+#problem {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 29rem;
+  left: 15rem;
+}
+
+#flactuation {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 29rem;
+  left: 28rem;
+}
+
+#expansion{
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 29rem;
+  left: 41rem;
+}
+
+hr {
+    width:7rem;
+    color:gray;
+    background-color:gray;
+    margin-right:36.4rem;
+
+  }
+#by {
+      font-size:0.75rem;
+  }
+  #briefing  {
+     width:50rem;
+     background-color:red;
+  }

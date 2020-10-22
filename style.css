@@ -18,7 +18,6 @@ h1 {
 
 #search {
   width: 2.3rem;
-  ;
   height: 2.3rem;
 }
 
@@ -54,7 +53,7 @@ h1 {
 }
 
 .gun {
-  margin-left: 18.83rem;
+  margin-left: 15.2rem;
   padding-top: 0.1rem;
 }
 
@@ -76,7 +75,7 @@ h1 {
   font-size: 0.75rem;
 }
 
-#content {
+#wording {
   width: 70%;
   font-size: 1.2rem;
   margin-left: 9rem;
@@ -179,14 +178,13 @@ h1 {
   left: 52rem;
 }
 
-hr {
+#first_line {
     width:7rem;
     color:gray;
     background-color:gray;
     position:absolute;
     top:220rem;
     left:35.5rem;
-
   }
 #by {
       font-size:0.75rem;
@@ -195,3 +193,93 @@ hr {
       left:35.5rem;
   }
 
+iframe {
+      width:100%;
+      height:25rem;
+}
+#pole{
+     width:100%;
+     height:30rem;
+    }
+
+#fyi{
+
+  font-size:0.8rem;
+}
+a :link{
+  text-decoration:underline;
+  color:gray;
+}
+.btn-adjust{
+  background-color:#567b95;
+  width:25rem;
+}
+#contact {
+         display:flex;
+         justify-content:space-between;
+        }
+#icons{
+     padding-top:2rem;;
+     padding-left:4rem;
+ }        
+.fa-facebook
+{
+  margin-left:-11rem;
+}
+
+#second_line {
+  width:50rem;
+  color:gray;
+  background-color:gray;
+  position:absolute;
+  top:548rem;
+  left:32.5rem;
+}
+
+#third_line {
+  width:25rem;
+  color:gray;
+  background-color:gray;
+  position:absolute;
+  top:548rem;
+  left:86.5rem;
+}
+#editors-pick{
+     margin-top:100rem;
+     float: right;;
+}
+.size{
+    width:5rem;
+    right:5rem;
+  
+  }
+
+  #line-four
+  { 
+    width:10rem;
+    margin-right:20rem;
+  }
+
+  .pick {
+    display:flex;
+    margin-right:15rem;
+
+  }
+  .about {
+   margin-left:1rem;
+  }
+  .big-image {
+   width:18rem;
+   height:15rem; 
+  }
+  .images{
+    display: flex;
+    justify-content:flex-start;
+  }
+  .image_text{
+    margin-right:1rem;
+  }
+  .more-left{
+
+    margin-left:-5rem;
+  }

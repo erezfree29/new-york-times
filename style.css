@@ -32,7 +32,7 @@ h1 {
 #buttons {
   display: flex;
   color: #567b95;
-  margin-right: 10rem;
+  margin-right: 10.0001rem;
 }
 
 .header {

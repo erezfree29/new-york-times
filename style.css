@@ -35,8 +35,6 @@ h1 {
   margin-right: 10rem;
 }
 
-.article {}
-
 .header {
   font-size: 2.5rem;
   padding-top: 4rem;
@@ -47,8 +45,6 @@ h1 {
   margin-left: 15.2rem;
   padding-top: 0.1rem;
 }
-
-.lower {}
 
 #man {
   width: 110%;
@@ -215,7 +211,6 @@ a :link {
 
 #icons {
   padding-top: 2rem;
-  ;
   padding-left: 4rem;
 }
 
@@ -244,7 +239,6 @@ a :link {
 #editors-pick {
   margin-top: 100rem;
   float: right;
-  ;
 }
 
 .size {

@@ -36,6 +36,7 @@ h1 {
 }
 
 .header {
+  margin-left: 15rem;
   font-size: 2.5rem;
   padding-top: 4rem;
   font-weight: 900;
@@ -285,4 +286,7 @@ a :link {
   align-items: center;
   border-bottom: 0.05rem solid gray;
   border-top: 0.05rem solid gray;
+}
+iframe {
+  border: 0px;
 }

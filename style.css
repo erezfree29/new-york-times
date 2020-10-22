@@ -277,6 +277,7 @@ a :link {
 }
 
 .more-left {
+  width:82%;
   margin-left: -5.02rem;
 }
 
@@ -288,3 +289,19 @@ a :link {
   border-bottom: 0.05rem solid gray;
   border-top: 0.05rem solid gray;
 }
+.more-right{
+  float:right;
+  margin-top:-36rem;
+  margin-right:-3.5rem;
+}
+
+#line_five {
+  width: 25rem;
+  background-color: #F0F0F0;
+  position: absolute;
+  top: 552rem;
+  left: 86.5rem;
+  font-weight:light;
+  height:0.00000001rem;
+}
+

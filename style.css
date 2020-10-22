@@ -1,307 +1,307 @@
 h1 {
-  color: blue;
+	color: blue;
 }
 
 #menu {
-  width: 2.3rem;
-  height: 2.3rem;
+	width: 2.3rem;
+	height: 2.3rem;
 }
 
 #search {
-  width: 2.3rem;
-  height: 2.3rem;
+	width: 2.3rem;
+	height: 2.3rem;
 }
 
 #space {
-  color: black;
-  font-weight: 900;
-  text-decoration: underline;
-  padding-top: 0.5rem;
+	color: black;
+	font-weight: 900;
+	text-decoration: underline;
+	padding-top: 0.5rem;
 }
 
 #logo {
-  width: 13rem;
-  height: 5rem;
-  padding-top: 0.9rem;
+	width: 13rem;
+	height: 5rem;
+	padding-top: 0.9rem;
 }
 
 #left-nav {
-  display: flex;
+	display: flex;
 }
 
 #buttons {
-  display: flex;
-  color: #567b95;
-  margin-right: 10.0001rem;
+	display: flex;
+	color: #567b95;
+	margin-right: 10.0001rem;
 }
 
 .header {
-  margin-left: 15rem;
-  font-size: 2.5rem;
-  padding-top: 4rem;
-  font-weight: 900;
+	margin-left: 15rem;
+	font-size: 2.5rem;
+	padding-top: 4rem;
+	font-weight: 900;
 }
 
 .gun {
-  margin-left: 15.2rem;
-  padding-top: 0.1rem;
+	margin-left: 15.2rem;
+	padding-top: 0.1rem;
 }
 
 #man {
-  width: 110%;
+	width: 110%;
 }
 
 #credit {
-  padding-left: 23rem;
-  margin-top: -2.4rem;
-  font-size: 0.8rem;
+	padding-left: 23rem;
+	margin-top: -2.4rem;
+	font-size: 0.8rem;
 }
 
 #label {
-  font-weight: 600;
-  text-decoration: underline;
-  font-size: 0.75rem;
+	font-weight: 600;
+	text-decoration: underline;
+	font-size: 0.75rem;
 }
 
 #wording {
-  width: 70%;
-  font-size: 1.2rem;
-  margin-left: 9rem;
+	width: 70%;
+	font-size: 1.2rem;
+	margin-left: 9rem;
 }
 
 #date {
-  margin-top: 0.8rem;
-  margin-bottom: 0.8rem;
+	margin-top: 0.8rem;
+	margin-bottom: 0.8rem;
 }
 
 #big {
-  font-size: 1.5rem;
-  font-weight: 600;
+	font-size: 1.5rem;
+	font-weight: 600;
 }
 
 #theory {
-  width: 120%;
+	width: 120%;
 }
 
 .lower_paragraph {
-  margin-left: -4rem;
+	margin-left: -4rem;
 }
 
 #inflation {
-  font-weight: 600;
+	font-weight: 600;
 }
 
 .discription {
-  font-size: 0.85rem;
+	font-size: 0.85rem;
 }
 
 .picture {
-  position: relative;
-  margin-bottom: 2rem;
-  margin-left: -7rem;
+	position: relative;
+	margin-bottom: 2rem;
+	margin-left: -7rem;
 }
 
 #universe {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 14rem;
-  left: 3rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 14rem;
+	left: 3rem;
 }
 
 #cosmos {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 14rem;
-  left: 18rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 14rem;
+	left: 18rem;
 }
 
 #telescope {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 14rem;
-  left: 34rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 14rem;
+	left: 34rem;
 }
 
 #coffee {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 14rem;
-  left: 52rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 14rem;
+	left: 52rem;
 }
 
 #time {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 34rem;
-  left: 2rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 34rem;
+	left: 2rem;
 }
 
 #problem {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 34rem;
-  left: 18rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 34rem;
+	left: 18rem;
 }
 
 #flactuation {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 34rem;
-  left: 34rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 34rem;
+	left: 34rem;
 }
 
 #expansion {
-  font-size: 0.65rem;
-  width: 25%;
-  position: absolute;
-  top: 34rem;
-  left: 52rem;
+	font-size: 0.65rem;
+	width: 25%;
+	position: absolute;
+	top: 34rem;
+	left: 52rem;
 }
 
 #first_line {
-  width: 7rem;
-  color: gray;
-  background-color: gray;
-  position: absolute;
-  top: 220rem;
-  left: 35.5rem;
+	width: 7rem;
+	color: gray;
+	background-color: gray;
+	position: absolute;
+	top: 220rem;
+	left: 35.5rem;
 }
 
 #by {
-  font-size: 0.75rem;
-  position: absolute;
-  top: 222rem;
-  left: 35.5rem;
+	font-size: 0.75rem;
+	position: absolute;
+	top: 222rem;
+	left: 35.5rem;
 }
 
 iframe {
-  width: 100%;
-  height: 25rem;
-  border: 0.0001px;
+	width: 100%;
+	height: 25rem;
+	border: 0.0001px;
 }
 
 #pole {
-  width: 100%;
-  height: 30rem;
+	width: 100%;
+	height: 30rem;
 }
 
 #fyi {
-  font-size: 0.8rem;
+	font-size: 0.8rem;
 }
 
 a :link {
-  text-decoration: underline;
-  color: gray;
+	text-decoration: underline;
+	color: gray;
 }
 
 .btn-adjust {
-  background-color: #567b95;
-  width: 25rem;
+	background-color: #567b95;
+	width: 25rem;
 }
 
 #contact {
-  display: flex;
-  justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
 }
 
 #icons {
-  padding-top: 2rem;
-  padding-left: 4rem;
+	padding-top: 2rem;
+	padding-left: 4rem;
 }
 
 .fa-facebook {
-  margin-left: -11rem;
+	margin-left: -11rem;
 }
 
 #second_line {
-  width: 50rem;
-  color: gray;
-  background-color: gray;
-  position: absolute;
-  top: 548rem;
-  left: 32.5rem;
+	width: 50rem;
+	color: gray;
+	background-color: gray;
+	position: absolute;
+	top: 548rem;
+	left: 32.5rem;
 }
 
 #third_line {
-  width: 25rem;
-  color: gray;
-  background-color: gray;
-  position: absolute;
-  top: 548rem;
-  left: 86.5rem;
+	width: 25rem;
+	color: gray;
+	background-color: gray;
+	position: absolute;
+	top: 548rem;
+	left: 86.5rem;
 }
 
 #editors-pick {
-  margin-top: 100rem;
-  float: right;
+	margin-top: 100rem;
+	float: right;
 }
 
 .size {
-  width: 5rem;
-  right: 5rem;
+	width: 5rem;
+	right: 5rem;
 }
 
 #line-four {
-  width: 10rem;
-  margin-right: 20rem;
+	width: 10rem;
+	margin-right: 20rem;
 }
 
 .pick {
-  display: flex;
-  margin-right: 15rem;
+	display: flex;
+	margin-right: 15rem;
 }
 
 .about {
-  margin-left: 1rem;
+	margin-left: 1rem;
 }
 
 .big-image {
-  width: 18rem;
-  height: 15rem;
+	width: 18rem;
+	height: 15rem;
 }
 
 .images {
-  display: flex;
-  justify-content: flex-start;
+	display: flex;
+	justify-content: flex-start;
 }
 
 .image_text {
-  margin-right: 1rem;
+	margin-right: 1rem;
 }
 
 .more-left {
-  width:82%;
-  margin-left: -5.02rem;
+	width: 82%;
+	margin-left: -5.02rem;
 }
 
 .nav {
-  height: 5.201rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border-bottom: 0.05rem solid gray;
-  border-top: 0.05rem solid gray;
+	height: 5.201rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 0.05rem solid gray;
+	border-top: 0.05rem solid gray;
 }
-.more-right{
-  float:right;
-  margin-top:-36rem;
-  margin-right:-3.501rem;
+
+.more-right {
+	float: right;
+	margin-top: -36rem;
+	margin-right: -3.501rem;
 }
 
 #line_five {
-  width: 25rem;
-  background-color: #F0F0F0;
-  position: absolute;
-  top: 552rem;
-  left: 86.5rem;
-  font-weight:light;
-  height:0.00000001rem;
+	width: 25rem;
+	background-color: #F0F0F0;
+	position: absolute;
+	top: 552rem;
+	left: 86.5rem;
+	font-weight: light;
+	height: 0.00000001rem;
 }
-

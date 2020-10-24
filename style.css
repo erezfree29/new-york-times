@@ -2,37 +2,43 @@ h1 {
   color: blue;
 }
 
-#menu {
-  width: 2.3rem;
-  height: 2.3rem;
+.menu {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right:1.5rem;
+  margin-left:10rem;
 }
 
-#search {
-  width: 2.3rem;
-  height: 2.3rem;
+.search {
+  width: 1.5rem;
+  margin-right:2rem;
+  height: 1.5rem;
 }
 
-#space {
+.space {
   color: black;
   font-weight: 900;
   text-decoration: underline;
-  padding-top: 0.5rem;
+  padding-top: 0.25rem;
 }
 
-#logo {
+.logo {
   width: 13rem;
   height: 5rem;
   padding-top: 0.9rem;
+  background-color:transparent;
 }
 
-#left-nav {
+.left-nav {
   display: flex;
 }
 
-#buttons {
+.buttons {
+  
   display: flex;
   color: #567b95;
-  margin-right: 10.0001rem;
+  margin-right:9rem;
+  margin-left:-7rem;
 }
 
 .header {
@@ -47,39 +53,39 @@ h1 {
   padding-top: 0.1rem;
 }
 
-#man {
+.man {
   width: 110%;
 }
 
-#credit {
+.credit {
   padding-left: 23rem;
   margin-top: -2.4rem;
   font-size: 0.8rem;
 }
 
-#label {
+.label {
   font-weight: 600;
   text-decoration: underline;
   font-size: 0.75rem;
 }
 
-#wording {
+.wording {
   width: 70%;
   font-size: 1.2rem;
   margin-left: 9rem;
 }
 
-#date {
+.date {
   margin-top: 0.8rem;
   margin-bottom: 0.8rem;
 }
 
-#big {
+.big {
   font-size: 1.5rem;
   font-weight: 600;
 }
 
-#theory {
+.theory {
   width: 120%;
 }
 
@@ -87,7 +93,7 @@ h1 {
   margin-left: -4rem;
 }
 
-#inflation {
+.inflation {
   font-weight: 600;
 }
 
@@ -101,7 +107,7 @@ h1 {
   margin-left: -7rem;
 }
 
-#universe {
+.universe {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -109,7 +115,7 @@ h1 {
   left: 3rem;
 }
 
-#cosmos {
+.cosmos {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -117,7 +123,7 @@ h1 {
   left: 18rem;
 }
 
-#telescope {
+.telescope {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -125,7 +131,7 @@ h1 {
   left: 34rem;
 }
 
-#coffee {
+.coffee {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -133,7 +139,7 @@ h1 {
   left: 52rem;
 }
 
-#time {
+.time {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -141,7 +147,7 @@ h1 {
   left: 2rem;
 }
 
-#problem {
+.problem {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -149,7 +155,7 @@ h1 {
   left: 18rem;
 }
 
-#flactuation {
+.flactuation {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -157,7 +163,7 @@ h1 {
   left: 34rem;
 }
 
-#expansion {
+.expansion {
   font-size: 0.65rem;
   width: 25%;
   position: absolute;
@@ -165,19 +171,19 @@ h1 {
   left: 52rem;
 }
 
-#first_line {
+.first_line {
   width: 7rem;
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 220rem;
+  top: 215.6rem;
   left: 35.5rem;
 }
 
-#by {
+.by {
   font-size: 0.75rem;
   position: absolute;
-  top: 222rem;
+  top: 215rem;
   left: 35.5rem;
 }
 
@@ -187,12 +193,12 @@ iframe {
   border: 0.0001px;
 }
 
-#pole {
+.pole {
   width: 100%;
   height: 30rem;
 }
 
-#fyi {
+.fyi {
   font-size: 0.8rem;
 }
 
@@ -206,12 +212,12 @@ a :link {
   width: 25rem;
 }
 
-#contact {
+.contact {
   display: flex;
   justify-content: space-between;
 }
 
-#icons {
+.icons {
   padding-top: 2rem;
   padding-left: 4rem;
 }
@@ -220,25 +226,25 @@ a :link {
   margin-left: -11rem;
 }
 
-#second_line {
-  width: 50rem;
+.second_line {
+  width: 56rem;
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 548rem;
-  left: 32.5rem;
+  top: 538rem;
+  left: 27.5rem;
 }
 
-#third_line {
+.third_line {
   width: 25rem;
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 548rem;
+  top: 538rem;
   left: 86.5rem;
 }
 
-#editors-pick {
+.editors-pick {
   margin-top: 100rem;
   float: right;
 }
@@ -248,7 +254,7 @@ a :link {
   right: 5rem;
 }
 
-#line-four {
+.line-four {
   width: 10rem;
   margin-right: 20rem;
 }
@@ -281,8 +287,20 @@ a :link {
   margin-left: -5.02rem;
 }
 
+nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  display:flex;
+  background-color:white;
+  justify-content:space-between;
+
+ }
+
 .nav {
   height: 5.201rem;
+  width:132rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -293,14 +311,37 @@ a :link {
 .more-right {
   float: right;
   margin-top: -36rem;
-  margin-right: -3.501rem;
+  margin-right: -4.5rem;
 }
 
-#line_five {
+.line_five {
   width: 25.001rem;
   background-color: gray;
   position: absolute;
-  top: 552rem;
+  top: 542.2rem;
   left: 86.5rem;
   height: 0.00000001rem;
+}
+.container{
+
+  margin-top:2rem;
+}
+.now {
+  margin-right:1rem;
+  background-color:#567b95;
+}
+.in{
+  background-color:#567b95;
+}
+
+.break::after{
+  content: "\a\a";
+  white-space: pre;
+
+}
+
+.popular{
+  position: absolute;
+  top: 540.5rem;
+  left: 86.5rem;
 }

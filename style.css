@@ -177,14 +177,14 @@ h1 {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 215.6rem;
+  top: 222rem;
   left: 35.5rem;
 }
 
 .by {
   font-size: 0.75rem;
   position: absolute;
-  top: 217.5rem;
+  top: 224.5rem;
   left: 35.5rem;
   font-size:1rem;
 }
@@ -228,8 +228,8 @@ a :link {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 538rem;
-  left: 25rem;
+  top: 555rem;
+  left: 34rem;
 }
 
 .third_line {
@@ -237,8 +237,8 @@ a :link {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 538rem;
-  left: 86.5rem;
+  top: 555rem;
+  left: 94rem;
 }
 
 .editors-pick {
@@ -317,8 +317,8 @@ nav{
   width: 31rem;
   background-color: gray;
   position: absolute;
-  top: 542rem;
-  left: 86.5rem;
+  top: 558.6rem;
+  left: 94rem;
   height: 0.00000001rem;
 }
 .container{
@@ -341,8 +341,8 @@ nav{
 
 .popular{
   position: absolute;
-  top: 541rem;
-  left: 86.5rem;
+  top: 557.5rem;
+  left: 94rem;
   font-size:1.5rem;
 }
 .more-left{
@@ -353,7 +353,7 @@ nav{
 }
 
 .icons{
-  margin-left:35rem;
+  margin-left:34rem;
 }
 .fa-facebook{
   margin-right:0.75rem;
@@ -376,3 +376,9 @@ nav{
 .special{
   font-size:1.5rem;
 }
+aside{
+  float:right;
+  margin-top:118rem;
+  margin-right:7rem;
+}
+

@@ -63,7 +63,6 @@ h1 {
 }
 
 .label {
-
   font-weight: 600;
   text-decoration: underline;
   font-size: 1.2rem;
@@ -228,7 +227,7 @@ a :link {
   background-color: gray;
   position: absolute;
   top: 556rem;
-  left: 22rem;
+  left: 13rem;
 }
 
 .third_line {
@@ -307,7 +306,7 @@ nav {
 .more-right {
   float: right;
   margin-top: -72rem;
-  margin-right: -20.5rem;
+  margin-right: -9.5rem;
   width: 31rem;
   font-size: 1.5rem;
 }
@@ -426,7 +425,7 @@ a {
   float: right;
   font-size: 1.3rem;
   padding-top: 6rem;
-  margin-right:-8rem;
+  margin-right: -8rem;
 }
 
 .bottom_row {

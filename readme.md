@@ -1,3 +1,10 @@
+Project Name
+New York Time Article Clone
+
+Screenshot
+![Alt Article](./images/Screenshot.jpg?raw=true "Space Ripples Reveal Big Bang’s Smoking Gun")
+
+
 In this project, I built:
 
 A clone of a New York times article which can be found in

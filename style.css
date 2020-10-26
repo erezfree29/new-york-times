@@ -394,11 +394,63 @@ footer{
 }
 
 .lower_logo{
-  width:14rem;
-  height:9rem;
+  width:15rem;
+  height:10rem;
   background-color:transparent;
+  margin-top:-1rem;
 
 }
 .columns{
   display:flex;
 }
+a {
+  color:black;
+}
+.column{
+  font-size:1.5rem;
+  padding-right:3.5rem;
+}
+.bline{
+  width:100rem;
+  background-color:#e2e2e2;
+  border-top: 0.3rem solid gray ;
+  margin-bottom:1rem;
+}
+.big{
+  font-size:1.8rem;
+ }
+ .wide{
+   width:35rem;
+ }
+ .home{
+   float: right;;
+   font-size:1.3rem;
+   padding-top:6rem;
+   
+ }
+
+ .bottom_row{
+   display:flex;
+ }
+ .blink{
+   padding-right:1rem;
+   font-size:0.9rem;
+ }
+
+ .last_hr{
+   width:190rem;
+   background-color:black;
+   margin-left:-60rem;
+ }
+ .access{
+   display:flex;
+   justify-content:center;
+   align-items:center;
+ }
+ .expand{
+   float:right;
+   margin-top:-1.1rem;
+  }
+  .up {
+    margin-left:2rem;
+  }

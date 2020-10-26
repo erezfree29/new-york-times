@@ -307,10 +307,11 @@ nav{
 
 .more-right {
   float: right;
-  margin-top: -46rem;
+  margin-top: -72rem;
   margin-right: -20.5rem;
   font-size:1rem;
   width:31rem;
+  font-size:1.5rem;
 }
 
 .line_five {
@@ -338,6 +339,12 @@ nav{
   white-space: pre;
 
 }
+
+.break_one::after {
+content:"\a";
+white-space: pre;
+}
+
 
 .popular{
   position: absolute;
@@ -379,6 +386,19 @@ nav{
 aside{
   float:right;
   margin-top:118rem;
-  margin-right:7rem;
+  margin-right:4rem;
+}
+footer{
+  width:92rem;
+  margin-left:-4rem;
 }
 
+.lower_logo{
+  width:14rem;
+  height:9rem;
+  background-color:transparent;
+
+}
+.columns{
+  display:flex;
+}

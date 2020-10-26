@@ -456,3 +456,11 @@ a {
 .up {
   margin-left: 2rem;
 }
+
+.small {
+  font-size: 0.5rem;
+}
+
+.gray {
+  margin-left: 1rem;
+}

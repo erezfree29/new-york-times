@@ -227,8 +227,8 @@ a :link {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 555rem;
-  left: 34rem;
+  top: 556rem;
+  left: 22rem;
 }
 
 .third_line {
@@ -236,8 +236,8 @@ a :link {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 555rem;
-  left: 94rem;
+  top: 556rem;
+  left: 83rem;
 }
 
 .editors-pick {
@@ -281,7 +281,7 @@ a :link {
 .more-left {
   font-size: 1.5rem;
   width: 82%;
-  margin-left: -5.02rem;
+  margin-left: -26.02rem;
 }
 
 nav {
@@ -316,8 +316,8 @@ nav {
   width: 31rem;
   background-color: gray;
   position: absolute;
-  top: 558.6rem;
-  left: 94rem;
+  top: 560.6rem;
+  left: 83rem;
   height: 0.00000001rem;
 }
 
@@ -388,7 +388,7 @@ aside {
 
 footer {
   width: 92rem;
-  margin-left: -4rem;
+  margin-left: -16rem;
 }
 
 .lower_logo {
@@ -426,6 +426,7 @@ a {
   float: right;
   font-size: 1.3rem;
   padding-top: 6rem;
+  margin-right:-8rem;
 }
 
 .bottom_row {

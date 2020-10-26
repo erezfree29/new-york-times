@@ -226,8 +226,8 @@ a :link {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 556rem;
-  left: 13rem;
+  top: 548rem;
+  left: 24rem;
 }
 
 .third_line {
@@ -235,7 +235,7 @@ a :link {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 556rem;
+  top: 548rem;
   left: 83rem;
 }
 
@@ -280,7 +280,7 @@ a :link {
 .more-left {
   font-size: 1.5rem;
   width: 82%;
-  margin-left: -26.02rem;
+  margin-left: -13.02rem;
 }
 
 nav {
@@ -315,7 +315,7 @@ nav {
   width: 31rem;
   background-color: gray;
   position: absolute;
-  top: 560.6rem;
+  top: 553rem;
   left: 83rem;
   height: 0.00000001rem;
 }
@@ -345,8 +345,8 @@ nav {
 
 .popular {
   position: absolute;
-  top: 557.5rem;
-  left: 94rem;
+  top: 550.5rem;
+  left: 83rem;
   font-size: 1.5rem;
 }
 
@@ -387,7 +387,7 @@ aside {
 
 footer {
   width: 92rem;
-  margin-left: 9rem;
+  margin-left: 23.5rem;
 }
 
 .lower_logo {
@@ -430,8 +430,8 @@ a {
 
 .bottom_row {
   display: flex;
-  margin-left:7rem;
-  width:96rem;
+  margin-left: 7rem;
+  width: 96rem;
 }
 
 .blink {

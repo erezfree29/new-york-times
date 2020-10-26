@@ -81,7 +81,7 @@ h1 {
 }
 
 .big {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: 600;
 }
 
@@ -181,7 +181,6 @@ h1 {
 }
 
 .by {
-  font-size: 0.75rem;
   position: absolute;
   top: 224.5rem;
   left: 35.5rem;
@@ -220,6 +219,7 @@ a :link {
 
 .fa-facebook {
   margin-left: -11rem;
+  margin-right: 0.75rem;
 }
 
 .second_line {
@@ -279,6 +279,7 @@ a :link {
 }
 
 .more-left {
+  font-size: 1.5rem;
   width: 82%;
   margin-left: -5.02rem;
 }
@@ -307,7 +308,6 @@ nav {
   float: right;
   margin-top: -72rem;
   margin-right: -20.5rem;
-  font-size: 1rem;
   width: 31rem;
   font-size: 1.5rem;
 }
@@ -351,20 +351,12 @@ nav {
   font-size: 1.5rem;
 }
 
-.more-left {
-  font-size: 1.5rem;
-}
-
 .rick {
   color: #8f8888;
 }
 
 .icons {
   margin-left: 34rem;
-}
-
-.fa-facebook {
-  margin-right: 0.75rem;
 }
 
 .fa-twitter-square {
@@ -425,17 +417,12 @@ a {
   margin-bottom: 1rem;
 }
 
-.big {
-  font-size: 1.8rem;
-}
-
 .wide {
   width: 35rem;
 }
 
 .home {
   float: right;
-  ;
   font-size: 1.3rem;
   padding-top: 6rem;
 }

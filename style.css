@@ -175,13 +175,13 @@ h1 {
   color: gray;
   background-color: gray;
   position: absolute;
-  top: 222rem;
+  top: 217rem;
   left: 35.5rem;
 }
 
 .by {
   position: absolute;
-  top: 224.5rem;
+  top: 218.5rem;
   left: 35.5rem;
   font-size: 1rem;
 }
@@ -387,7 +387,7 @@ aside {
 
 footer {
   width: 92rem;
-  margin-left: -16rem;
+  margin-left: 9rem;
 }
 
 .lower_logo {
@@ -430,6 +430,8 @@ a {
 
 .bottom_row {
   display: flex;
+  margin-left:7rem;
+  width:96rem;
 }
 
 .blink {

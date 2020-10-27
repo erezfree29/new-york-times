@@ -27,6 +27,7 @@ h1 {
   height: 5rem;
   padding-top: -2rem;
   background-color: transparent;
+  margin-right: 10rem;
 }
 
 .left-nav {
@@ -41,10 +42,10 @@ h1 {
 }
 
 .header {
-  margin-left: 15rem;
+  margin-left: 23rem;
   font-size: 2.5rem;
-  padding-top: 4rem;
-  font-weight: 900;
+  padding-top: 8rem;
+  font-weight:400;
   padding-left: 25.201rem;
 }
 
@@ -296,7 +297,7 @@ nav {
 
 .nav {
   height: 5.201rem;
-  width: 132rem;
+  width: 150rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -332,6 +333,7 @@ nav {
 
 .in {
   background-color: #567b95;
+  margin-right: -15rem;
 }
 
 .break::after {
@@ -386,7 +388,7 @@ aside {
   margin-right: -11rem;
 }
 
-footer {
+.lower_section {
   width: 92rem;
   margin-left: 23.5rem;
 }
@@ -441,9 +443,9 @@ a {
 }
 
 .last_hr {
-  width: 190rem;
+  width: 169rem;
   background-color: black;
-  margin-left: -60rem;
+  margin-left: -20rem;
 }
 
 .access {
@@ -467,4 +469,15 @@ a {
 
 .gray {
   margin-left: 1rem;
+}
+body {
+  width: 137rem;
+}
+
+footer {
+  position: fixed;
+  top: 72rem;
+  left: 0;
+  z-index: 9999;
+  background-color: white;
 }

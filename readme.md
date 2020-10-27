@@ -1,9 +1,10 @@
+Toggle Zen ModePREVIEWToggle Mode
+
 Project Name
 New York Time Article Clone
 
 Screenshot
-![Alt Article](./images/Screenshot.jpg?raw=true "Space Ripples Reveal Big Bang’s Smoking Gun")
-
+Alt Article
 
 In this project, I built:
 
@@ -23,9 +24,8 @@ HTML and CSS.
 Live Demo
 https://erezfree29.github.io/new-york-times/
 
-
 Author
-Erez Friemagor 
+Erez Friemagor
 
 Github: @erezfree29
 
@@ -45,59 +45,25 @@ Push your branch up to your forked repository
 Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 Next features
-Use Javascript for more special effects and logic;
-Use Ruby on Rails;
-Create a personalized contact page;
-Push the project to a personal domain.
+Used Javascript for more special effects and logic;
+Used Ruby on Rails;
+Created a personalized contact page;
+Pushed the project to a personal domain.
 Show your support
 Give a star if you like this project!
 
 
+Erez
+cloning new york times article page
+screenshot
+making of the replica of a page article from the new york times without java script features
 
+Built With
+html and css
+vsc text editor
+Authors
+👤 Erez
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[](https://img.shields.io/badge/Microverse-blueviolet)
-# Erez
-> cloning new york times article page 
-![screenshot](./times.png)
-making of the replica of a page article from the new york times without java script features 
-## Built With
-- html and css
-## vsc text editor
-## Authors
-👤 **Erez**
-- GitHub: erezfree29
-- Twitter: https://twitter.com/friemagor
-- LinkedIn: https://www.linkedin.com/in/erez-friemagor-3b0bab145/
+GitHub: erezfree29
+Twitter: https://twitter.com/friemagor
+LinkedIn: https://www.linkedin.com/in/erez-friemagor-3b0bab145/

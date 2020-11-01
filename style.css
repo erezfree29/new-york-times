@@ -2,97 +2,91 @@ h1 {
   color: blue;
 }
 
-.nav {
-  height: 5.2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border-bottom: 0.05rem solid gray;
-  border-top: 0.05rem solid gray;
+.menu {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 1.5rem;
+  margin-left: 10rem;
 }
 
-#menu {
-  width: 2.3rem;
-  height: 2.3rem;
+.search {
+  width: 1.5rem;
+  margin-right: 2rem;
+  height: 1.5rem;
 }
 
-#search {
-  width: 2.3rem;
-  ;
-  height: 2.3rem;
-}
-
-#space {
+.space {
   color: black;
   font-weight: 900;
   text-decoration: underline;
-  padding-top: 0.5rem;
+  padding-top: 0.25rem;
 }
 
-#logo {
+.logo {
   width: 13rem;
   height: 5rem;
-  padding-top: 0.9rem;
-}
-
-#left-nav {
-  display: flex;
-}
-
-#buttons {
-  display: flex;
-  color: #567b95;
+  padding-top: -2rem;
+  background-color: transparent;
   margin-right: 10rem;
 }
 
-.article {}
+.left-nav {
+  display: flex;
+}
+
+.buttons {
+  display: flex;
+  color: #567b95;
+  margin-right: 48rem;
+  margin-left: -7rem;
+}
 
 .header {
+  margin-left: 18rem;
   font-size: 2.5rem;
-  padding-top: 4rem;
-  font-weight: 900;
+  padding-top: 8rem;
+  font-weight: 400;
+  padding-left: 25.201rem;
 }
 
 .gun {
-  margin-left: 18.83rem;
+  padding-left: 25.2rem;
   padding-top: 0.1rem;
 }
 
-.lower {}
-
-#man {
+.man {
   width: 110%;
 }
 
-#credit {
+.credit {
   padding-left: 23rem;
   margin-top: -2.4rem;
   font-size: 0.8rem;
 }
 
-#label {
+.label {
   font-weight: 600;
   text-decoration: underline;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
 }
 
-#content {
-  width: 60%;
+.wording {
+  width: 70%;
   font-size: 1.2rem;
   margin-left: 9rem;
 }
 
-#date {
+.date {
   margin-top: 0.8rem;
   margin-bottom: 0.8rem;
 }
 
-#big {
-  font-size: 1.5rem;
+.big {
+  font-size: 1.8rem;
   font-weight: 600;
 }
 
-#theory {
+.theory {
   width: 120%;
 }
 
@@ -100,7 +94,7 @@ h1 {
   margin-left: -4rem;
 }
 
-#inflation {
+.inflation {
   font-weight: 600;
 }
 
@@ -108,22 +102,386 @@ h1 {
   font-size: 0.85rem;
 }
 
-.lower_paragraph {
+.picture {
   position: relative;
+  margin-bottom: 2rem;
+  margin-left: -7rem;
 }
 
-#universe {
-  font-size: 0.75rem;
+.universe {
+  font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 12rem;
+  top: 14rem;
+  left: 3rem;
+}
+
+.cosmos {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 14rem;
+  left: 18rem;
+}
+
+.telescope {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 14rem;
+  left: 34rem;
+}
+
+.coffee {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 14rem;
+  left: 52rem;
+}
+
+.time {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 34rem;
   left: 2rem;
 }
 
-#time {
-  font-size: 0.75rem;
+.problem {
+  font-size: 0.65rem;
   width: 25%;
   position: absolute;
-  top: 12rem;
-  left: 15rem;
+  top: 34rem;
+  left: 18rem;
+}
+
+.flactuation {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 34rem;
+  left: 34rem;
+}
+
+.expansion {
+  font-size: 0.65rem;
+  width: 25%;
+  position: absolute;
+  top: 34rem;
+  left: 52rem;
+}
+
+.first_line {
+  width: 7rem;
+  color: gray;
+  background-color: gray;
+  position: absolute;
+  top: 217rem;
+  left: 35.5rem;
+}
+
+.by {
+  position: absolute;
+  top: 218.5rem;
+  left: 35.5rem;
+  font-size: 1rem;
+}
+
+iframe {
+  width: 100%;
+  height: 25rem;
+  border: 0.0001px;
+}
+
+.pole {
+  width: 100%;
+  height: 30rem;
+}
+
+.fyi {
+  font-size: 0.8rem;
+}
+
+a :link {
+  text-decoration: underline;
+  color: gray;
+}
+
+.btn-adjust {
+  background-color: #567b95;
+  width: 25rem;
+}
+
+.contact {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fa-facebook {
+  margin-left: -11rem;
+  margin-right: 0.75rem;
+}
+
+.second_line {
+  width: 56rem;
+  color: gray;
+  background-color: gray;
+  position: absolute;
+  top: 543rem;
+  left: 3.5rem;
+}
+
+.third_line {
+  width: 31rem;
+  color: gray;
+  background-color: gray;
+  position: absolute;
+  top: 543rem;
+  left: 63rem;
+}
+
+.editors-pick {
+  margin-top: 100rem;
+  float: right;
+}
+
+.size {
+  width: 5rem;
+  right: 5rem;
+}
+
+.line-four {
+  width: 10rem;
+  margin-right: 20rem;
+}
+
+.pick {
+  display: flex;
+  margin-right: 15rem;
+}
+
+.about {
+  margin-left: 1rem;
+}
+
+.big-image {
+  width: 18rem;
+  height: 15rem;
+}
+
+.images {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.image_text {
+  margin-right: 1rem;
+}
+
+.more-left {
+  font-size: 1.5rem;
+  width: 82%;
+  margin-left: -13.02rem;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+}
+
+.nav {
+  height: 5.201rem;
+  width: 150rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.05rem solid gray;
+  border-top: 0.05rem solid gray;
+}
+
+.more-right {
+  float: right;
+  margin-top: -75rem;
+  margin-right: -8rem;
+  width: 31rem;
+  font-size: 1.5rem;
+}
+
+.line_five {
+  width: 31rem;
+  background-color: gray;
+  position: absolute;
+  top: 546.5rem;
+  left: 63rem;
+  height: 0.00000001rem;
+}
+
+.container {
+  margin-top: 2rem;
+}
+
+.now {
+  margin-right: 1rem;
+  background-color: #567b95;
+}
+
+.in {
+  background-color: #567b95;
+  margin-right: -15rem;
+}
+
+.break::after {
+  content: "\a\a";
+  white-space: pre;
+}
+
+.break_one::after {
+  content: "\a";
+  white-space: pre;
+}
+
+.popular {
+  position: absolute;
+  top: 545rem;
+  left: 63rem;
+  font-size: 1.5rem;
+}
+
+.rick {
+  color: #8f8888;
+}
+
+.icons {
+  margin-left: 45rem;
+  margin-top: -1rem;
+}
+
+.fa-twitter-square {
+  margin-right: 0.75rem;
+}
+
+.fa-envelope {
+  margin-right: 0.75rem;
+}
+
+.fa-share {
+  margin-right: 0.75rem;
+}
+
+.fa-sign-in-alt {
+  margin-right: 0.751rem;
+}
+
+.special {
+  font-size: 1.5rem;
+}
+
+aside {
+  float: right;
+  margin-top: 118rem;
+  margin-right: -16.9rem;
+}
+
+.lower_section {
+  width: 92rem;
+  margin-left: 6.5rem;
+}
+
+.lower_logo {
+  width: 15rem;
+  height: 10rem;
+  background-color: transparent;
+  margin-top: -1rem;
+  margin-right: 2rem;
+}
+
+.columns {
+  display: flex;
+}
+
+a {
+  color: black;
+}
+
+.column {
+  font-size: 1.5rem;
+  padding-right: 3.5rem;
+}
+
+.bline {
+  width: 100rem;
+  background-color: #e2e2e2;
+  border-top: 0.3rem solid gray;
+  margin-bottom: 1rem;
+}
+
+.wide {
+  width: 35rem;
+}
+
+.home {
+  float: right;
+  font-size: 1.3rem;
+  padding-top: 6rem;
+  margin-right: -8rem;
+}
+
+.bottom_row {
+  display: flex;
+  margin-left: 7rem;
+  width: 96rem;
+}
+
+.blink {
+  padding-right: 1rem;
+  font-size: 0.9rem;
+}
+
+.last_hr {
+  width: 169rem;
+  background-color: black;
+  margin-left: -20rem;
+}
+
+.access {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -32rem;
+}
+
+.expand {
+  float: right;
+  margin-top: -1.3rem;
+  margin-right: 43rem;
+}
+
+.up {
+  margin-left: 2rem;
+}
+
+.small {
+  font-size: 0.7rem;
+}
+
+.gray {
+  margin-left: 1rem;
+}
+
+footer {
+  position: fixed;
+  top: 57.5rem;
+  left: 0;
+  z-index: 9999;
+  background-color: white;
+}
+
+body {
+  width: 102rem;
 }

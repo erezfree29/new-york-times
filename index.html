@@ -11,6 +11,38 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
 </head>
 <body>
+    <aside class="form">
+      <form>
+        <ul>
+          <li>
+            <label for ="name">Name:</label>
+            <input type="text" id="name" name="user_name" required maxlength="20">
+          </li>
+          <li>
+            <label for="mail">E=mail:</label>
+            <input type="email" id="mail" name="user_email" required maxlength="20">  
+          </li>
+          <li>
+            <label for="comment">Comment:</label>
+            <textarea id="comment" name="user_comment" placeholder="Type your comment here" required maxlength="250"></textarea>  
+          </li>
+          <li>
+            <select name="opnion">
+              <option value="positive" selected>Positive</option> 
+              <option value="Negative">Negative</option>
+              <option value="Netrual">Netrual</option>   
+            </select>  
+          </li> 
+          <li>
+            <input type="checkbox" name="newsletter" value="subscribe"> I want to subscribe to the newsletter
+          </li>
+        </ul>
+        <button type="submit">Send</button>  
+
+      </form>  
+
+    </aside>
+
     <aside>
     <strong>Editors Picks</strong>
     <hr id="line-four">

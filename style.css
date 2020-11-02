@@ -485,3 +485,9 @@ footer {
 body {
   width: 102rem;
 }
+
+.form {
+  position:absolute;
+  right:2rem;
+  top:105rem;
+}
